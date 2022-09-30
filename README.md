@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apcmakkadath
-- 👀 I’m interested in shell scripting & splunking
+- 👀 I’m interested in shell scripting, splunking & logrhythm
 - 🌱 I’m infosec expert
 - 📫 How to reach me apcmakkadath@gmail.com
 
