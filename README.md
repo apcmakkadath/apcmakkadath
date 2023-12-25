@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apcmakkadath
+- 👋 Hi, I’m @aravind
 - 👀 I’m interested in shell scripting, powershell scripting, splunking & logrhythm
 - 🌱 I’m infosec expert
 - 📫 How to reach me: apcmakkadath@gmail.com
